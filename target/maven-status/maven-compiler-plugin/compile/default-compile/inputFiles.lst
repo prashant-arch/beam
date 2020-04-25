@@ -1,0 +1,5 @@
+/home/prashantnagpal_nagpal/duplicate/src/main/java/com/google/cloud/teleport/templates/JdbcToBigQuery.java
+/home/prashantnagpal_nagpal/duplicate/src/main/java/com/google/cloud/teleport/io/DynamicJdbcIO.java
+/home/prashantnagpal_nagpal/duplicate/src/main/java/com/google/cloud/teleport/util/KMSEncryptedNestedValueProvider.java
+/home/prashantnagpal_nagpal/duplicate/src/main/java/com/google/cloud/teleport/util/DualInputNestedValueProvider.java
+/home/prashantnagpal_nagpal/duplicate/src/main/java/com/google/cloud/teleport/templates/common/JdbcConverters.java
